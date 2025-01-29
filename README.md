@@ -15,7 +15,7 @@
 Датасет взят с платформы **Kaggle** и содержит информацию о пациентах с диабетом. 
 
 Ссылка на источник данных:
-- [Diabetes Dataset on Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+- [Diabetes Dataset on Kaggle](https://www.kaggle.com/mathchi/diabetes-data-set)
 
 ### Структура данных
 
